@@ -1,0 +1,16 @@
+{
+    "name": "hipc/test2",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hipc\\Test2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kzc"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
