@@ -1,0 +1,18 @@
+{
+    "name": "kzc/test2",
+    "description": "测试的",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kzc\\Test2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kzc"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}
